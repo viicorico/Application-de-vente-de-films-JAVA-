@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Role1",
+        "lstPdt": [
+            {
+                "role": "Secondaire",
+                "acteur": {},
+                "film": {}
+            }
+        ]
+    },
+    {
+        "name": "Role2",
+        "lstPdt": [
+            {
+                "role": "primaire",
+                "acteur": {},
+                "film": {}
+            }
+        ]
+    }
+]
+

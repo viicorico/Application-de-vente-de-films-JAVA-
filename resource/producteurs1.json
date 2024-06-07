@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Producteur1",
+    "lstPdt": [
+      {
+        "nom": "Spiel",
+        "prenom": "Steve"
+      }
+    ]
+  },
+  {
+    "name": "Producteur2",
+    "lstPdt": [
+      {
+        "nom": "Steven",
+        "prenom": "Spielberg"
+      }
+    ]
+  }
+]

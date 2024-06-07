@@ -1,0 +1,861 @@
+[
+  {
+    "name": "NomCategorie",
+    "lstPdt": [
+      {
+        "historiqueAchat": [
+          {
+            "achatID": 0,
+            "montant": 11.989999771118164,
+            "facture": "FACTURE-XYZ",
+            "date": "2024-04-24"
+          },
+          {
+            "achatID": 0,
+            "montant": 34.970001220703125,
+            "facture": "FACTURE-XYZ",
+            "date": "2024-04-24"
+          },
+          {
+            "achatID": 0,
+            "montant": 64.97000122070312,
+            "facture": "FACTURE-XYZ",
+            "date": "2024-04-24"
+          },
+          {
+            "achatID": 0,
+            "montant": 77.95999908447266,
+            "facture": "FACTURE-XYZ",
+            "date": "2024-04-24"
+          },
+          {
+            "achatID": 0,
+            "montant": 77.95999908447266,
+            "facture": "FACTURE-XYZ",
+            "date": "2024-04-24"
+          },
+          {
+            "achatID": 0,
+            "montant": 107.95999908447266,
+            "facture": "FACTURE-XYZ",
+            "date": "2024-04-24"
+          },
+          {
+            "achatID": 0,
+            "montant": 120.94999694824219,
+            "facture": "FACTURE-XYZ",
+            "date": "2024-04-24"
+          },
+          {
+            "achatID": 0,
+            "montant": 150.9499969482422,
+            "facture": "FACTURE-XYZ",
+            "date": "2024-04-24"
+          },
+          {
+            "achatID": 0,
+            "montant": 162.94000244140625,
+            "facture": "FACTURE-XYZ",
+            "date": "2024-04-24"
+          },
+          {
+            "achatID": 0,
+            "montant": 175.9300079345703,
+            "facture": "FACTURE-XYZ",
+            "date": "2024-04-24"
+          },
+          {
+            "achatID": 0,
+            "montant": 218.92001342773438,
+            "facture": "FACTURE-XYZ",
+            "date": "2024-04-24"
+          },
+          {
+            "achatID": 0,
+            "montant": 243.9000244140625,
+            "facture": "FACTURE-XYZ",
+            "date": "2024-04-24"
+          },
+          {
+            "achatID": 0,
+            "montant": 309.8699951171875,
+            "facture": "FACTURE-XYZ",
+            "date": "2024-04-24"
+          },
+          {
+            "achatID": 0,
+            "montant": 352.8599853515625,
+            "facture": "FACTURE-XYZ",
+            "date": "2024-04-24"
+          }
+        ],
+        "vitrine": {
+          "filmRecent": [
+            {
+              "titre": "Terminator",
+              "anneeSortie": 2020,
+              "prix": 30.0,
+              "resume": "yggu",
+              "nombreEvaluations": 0,
+              "nombreVentes": 0,
+              "reductionAbonne": 0.5,
+              "acteurs": [
+                {
+                  "nom": "Jean",
+                  "prenom": "Jacques"
+                }
+              ],
+              "producteurs": [
+                {
+                  "nom": "Jean",
+                  "prenom": "Jacques"
+                }
+              ],
+              "evaluations": [],
+              "themes": [
+                {
+                  "nom": "Action fantasy"
+                }
+              ],
+              "roles": [
+                {
+                  "role": "Secondaire"
+                }
+              ]
+            },
+            {
+              "titre": "Avengers: Endgame",
+              "anneeSortie": 2019,
+              "prix": 12.99,
+              "resume": "Les Avengers tentent de récupérer les gemmes de l\u0027infini pour restaurer l\u0027univers après le claquement de doigts de Thanos.",
+              "nombreEvaluations": 2,
+              "nombreVentes": 0,
+              "reductionAbonne": 0.2,
+              "acteurs": [
+                {
+                  "nom": "Downey Jr.",
+                  "prenom": "Robert"
+                },
+                {
+                  "nom": "Evans",
+                  "prenom": "Chris"
+                },
+                {
+                  "nom": "Johansson",
+                  "prenom": "Scarlett"
+                }
+              ],
+              "producteurs": [
+                {
+                  "nom": "Feige",
+                  "prenom": "Kevin"
+                },
+                {
+                  "nom": "Russo",
+                  "prenom": "Joe"
+                }
+              ],
+              "evaluations": [
+                {
+                  "utilisateur": {
+                    "utilisateurID": 0,
+                    "pseudonyme": "a",
+                    "nom": "a",
+                    "prenom": "a",
+                    "email": "a",
+                    "motDePasse": "a",
+                    "phraseSecrete": "a",
+                    "adresse": "a",
+                    "pays": "FRANCE"
+                  },
+                  "note": 10,
+                  "commentaire": "J\u0027AAADOOORE",
+                  "date": "2024-04-24",
+                  "active": true
+                },
+                {
+                  "utilisateur": {
+                    "utilisateurID": 0,
+                    "pseudonyme": "vic",
+                    "nom": "vic",
+                    "prenom": "vic",
+                    "email": "vic",
+                    "motDePasse": "vic",
+                    "phraseSecrete": "vic",
+                    "adresse": "vic",
+                    "pays": "FRANCE"
+                  },
+                  "note": 0,
+                  "commentaire": "je n\u0027aime pas",
+                  "date": "2024-04-24",
+                  "active": true
+                }
+              ],
+              "themes": [
+                {
+                  "nom": "Action"
+                },
+                {
+                  "nom": "Aventure"
+                },
+                {
+                  "nom": "Science-Fiction"
+                }
+              ],
+              "roles": [
+                {
+                  "role": "Iron Man"
+                },
+                {
+                  "role": "Captain America"
+                }
+              ]
+            },
+            {
+              "titre": "Interstellar",
+              "anneeSortie": 2014,
+              "prix": 11.99,
+              "resume": "Un groupe d\u0027explorateurs utilise un trou de ver pour tenter de trouver une nouvelle planète habitable pour l\u0027humanité.",
+              "nombreEvaluations": 1,
+              "nombreVentes": 0,
+              "reductionAbonne": 0.18,
+              "acteurs": [
+                {
+                  "nom": "McConaughey",
+                  "prenom": "Matthew"
+                },
+                {
+                  "nom": "Hathaway",
+                  "prenom": "Anne"
+                },
+                {
+                  "nom": "Chastain",
+                  "prenom": "Jessica"
+                }
+              ],
+              "producteurs": [
+                {
+                  "nom": "Nolan",
+                  "prenom": "Christopher"
+                },
+                {
+                  "nom": "Lynda",
+                  "prenom": "Emma"
+                }
+              ],
+              "evaluations": [
+                {
+                  "utilisateur": {
+                    "utilisateurID": 0,
+                    "pseudonyme": "a",
+                    "nom": "a",
+                    "prenom": "a",
+                    "email": "a",
+                    "motDePasse": "a",
+                    "phraseSecrete": "a",
+                    "adresse": "a",
+                    "pays": "FRANCE"
+                  },
+                  "note": 2,
+                  "commentaire": "je déteste",
+                  "date": "2024-04-24",
+                  "active": true
+                }
+              ],
+              "themes": [
+                {
+                  "nom": "Aventure"
+                },
+                {
+                  "nom": "Drame"
+                },
+                {
+                  "nom": "Science-Fiction"
+                }
+              ],
+              "roles": [
+                {
+                  "role": "Cooper"
+                },
+                {
+                  "role": "Brand"
+                }
+              ]
+            },
+            {
+              "titre": "Interstellar",
+              "anneeSortie": 2014,
+              "prix": 11.99,
+              "resume": "Un groupe d\u0027explorateurs utilise un trou de ver pour tenter de trouver une nouvelle planète habitable pour l\u0027humanité.",
+              "nombreEvaluations": 0,
+              "nombreVentes": 0,
+              "reductionAbonne": 0.18,
+              "acteurs": [
+                {
+                  "nom": "McConaughey",
+                  "prenom": "Matthew"
+                },
+                {
+                  "nom": "Hathaway",
+                  "prenom": "Anne"
+                },
+                {
+                  "nom": "Chastain",
+                  "prenom": "Jessica"
+                }
+              ],
+              "producteurs": [
+                {
+                  "nom": "Nolan",
+                  "prenom": "Christopher"
+                },
+                {
+                  "nom": "Lynda",
+                  "prenom": "Emma"
+                }
+              ],
+              "evaluations": [],
+              "themes": [
+                {
+                  "nom": "Aventure"
+                },
+                {
+                  "nom": "Drame"
+                },
+                {
+                  "nom": "Science-Fiction"
+                }
+              ],
+              "roles": [
+                {
+                  "role": "Cooper"
+                },
+                {
+                  "role": "Brand"
+                }
+              ]
+            },
+            {
+              "titre": "Inception",
+              "anneeSortie": 2010,
+              "prix": 10.99,
+              "resume": "Un voleur expérimenté entre dans les rêves de ses cibles pour voler leurs secrets les plus précieux.",
+              "nombreEvaluations": 0,
+              "nombreVentes": 0,
+              "reductionAbonne": 0.18,
+              "acteurs": [
+                {
+                  "nom": "DiCaprio",
+                  "prenom": "Leonardo"
+                },
+                {
+                  "nom": "Gordon-Levitt",
+                  "prenom": "Joseph"
+                },
+                {
+                  "nom": "Page",
+                  "prenom": "Ellen"
+                }
+              ],
+              "producteurs": [
+                {
+                  "nom": "Nolan",
+                  "prenom": "Christopher"
+                }
+              ],
+              "evaluations": [],
+              "themes": [
+                {
+                  "nom": "Action"
+                },
+                {
+                  "nom": "Aventure"
+                },
+                {
+                  "nom": "Science-Fiction"
+                },
+                {
+                  "nom": "Thriller"
+                }
+              ],
+              "roles": [
+                {
+                  "role": "Dom Cobb"
+                },
+                {
+                  "role": "Arthur"
+                }
+              ]
+            },
+            {
+              "titre": "Inception",
+              "anneeSortie": 2010,
+              "prix": 10.99,
+              "resume": "Un voleur d\u0027élite vole des secrets en les infiltrant dans les rêves de ses cibles.",
+              "nombreEvaluations": 0,
+              "nombreVentes": 0,
+              "reductionAbonne": 0.17,
+              "acteurs": [
+                {
+                  "nom": "DiCaprio",
+                  "prenom": "Leonardo"
+                },
+                {
+                  "nom": "Gordon-Levitt",
+                  "prenom": "Joseph"
+                },
+                {
+                  "nom": "Page",
+                  "prenom": "Ellen"
+                }
+              ],
+              "producteurs": [
+                {
+                  "nom": "Nolan",
+                  "prenom": "Christopher"
+                }
+              ],
+              "evaluations": [],
+              "themes": [
+                {
+                  "nom": "Action"
+                },
+                {
+                  "nom": "Science-Fiction"
+                },
+                {
+                  "nom": "Thriller"
+                }
+              ],
+              "roles": [
+                {
+                  "role": "Dom Cobb"
+                },
+                {
+                  "role": "Arthur"
+                }
+              ]
+            },
+            {
+              "titre": "The Dark Knight",
+              "anneeSortie": 2008,
+              "prix": 11.99,
+              "resume": "Batman affronte le Joker dans une bataille d\u0027intelligence et de volonté pour protéger Gotham City.",
+              "nombreEvaluations": 0,
+              "nombreVentes": 0,
+              "reductionAbonne": 0.2,
+              "acteurs": [
+                {
+                  "nom": "Bale",
+                  "prenom": "Christian"
+                },
+                {
+                  "nom": "Ledger",
+                  "prenom": "Heath"
+                },
+                {
+                  "nom": "Eckhart",
+                  "prenom": "Aaron"
+                }
+              ],
+              "producteurs": [
+                {
+                  "nom": "Nolan",
+                  "prenom": "Christopher"
+                },
+                {
+                  "nom": "Thomas",
+                  "prenom": "Emma"
+                }
+              ],
+              "evaluations": [],
+              "themes": [
+                {
+                  "nom": "Action"
+                },
+                {
+                  "nom": "Crime"
+                },
+                {
+                  "nom": "Drame"
+                },
+                {
+                  "nom": "Thriller"
+                }
+              ],
+              "roles": [
+                {
+                  "role": "Batman"
+                },
+                {
+                  "role": "The Joker"
+                }
+              ]
+            },
+            {
+              "titre": "The Lord of the Rings: The Fellowship of the Ring",
+              "anneeSortie": 2001,
+              "prix": 10.99,
+              "resume": "Un jeune hobbit est chargé de détruire un anneau puissant avant qu\u0027il ne tombe entre les mains du Seigneur des Ténèbres.",
+              "nombreEvaluations": 0,
+              "nombreVentes": 0,
+              "reductionAbonne": 0.15,
+              "acteurs": [
+                {
+                  "nom": "Wood",
+                  "prenom": "Elijah"
+                },
+                {
+                  "nom": "McKellen",
+                  "prenom": "Ian"
+                },
+                {
+                  "nom": "Bloom",
+                  "prenom": "Orlando"
+                }
+              ],
+              "producteurs": [
+                {
+                  "nom": "Jackson",
+                  "prenom": "Peter"
+                }
+              ],
+              "evaluations": [],
+              "themes": [
+                {
+                  "nom": "Action"
+                },
+                {
+                  "nom": "Aventure"
+                },
+                {
+                  "nom": "Fantasy"
+                }
+              ],
+              "roles": [
+                {
+                  "role": "Frodo Baggins"
+                },
+                {
+                  "role": "Gandalf"
+                }
+              ]
+            },
+            {
+              "titre": "titanic2",
+              "anneeSortie": 2000,
+              "prix": 20.0,
+              "resume": "kdkl",
+              "nombreEvaluations": 0,
+              "nombreVentes": 0,
+              "reductionAbonne": 0.5,
+              "acteurs": [
+                {
+                  "nom": "jean",
+                  "prenom": ""
+                }
+              ],
+              "producteurs": [
+                {
+                  "nom": "jean",
+                  "prenom": "del"
+                }
+              ],
+              "evaluations": [],
+              "themes": [
+                {
+                  "nom": "Action"
+                }
+              ],
+              "roles": [
+                {
+                  "role": "secondaire"
+                }
+              ]
+            },
+            {
+              "titre": "titanic3",
+              "anneeSortie": 2000,
+              "prix": 20.0,
+              "resume": "un bateau",
+              "nombreEvaluations": 0,
+              "nombreVentes": 0,
+              "reductionAbonne": 0.5,
+              "acteurs": [
+                {
+                  "nom": "jean",
+                  "prenom": "jacque,"
+                }
+              ],
+              "producteurs": [
+                {
+                  "nom": "jean",
+                  "prenom": "jacque"
+                }
+              ],
+              "evaluations": [],
+              "themes": [
+                {
+                  "nom": "Action"
+                }
+              ],
+              "roles": [
+                {
+                  "role": "secondaire"
+                }
+              ]
+            },
+            {
+              "titre": "Fight Club",
+              "anneeSortie": 1999,
+              "prix": 9.99,
+              "resume": "Un employé de bureau insatisfait crée un club de combat clandestin comme moyen de trouver un sens à sa vie.",
+              "nombreEvaluations": 0,
+              "nombreVentes": 0,
+              "reductionAbonne": 0.12,
+              "acteurs": [
+                {
+                  "nom": "Norton",
+                  "prenom": "Edward"
+                },
+                {
+                  "nom": "Pitt",
+                  "prenom": "Brad"
+                },
+                {
+                  "nom": "Bonham Carter",
+                  "prenom": "Helena"
+                }
+              ],
+              "producteurs": [
+                {
+                  "nom": "Fincher",
+                  "prenom": "David"
+                }
+              ],
+              "evaluations": [],
+              "themes": [
+                {
+                  "nom": "Drame"
+                },
+                {
+                  "nom": "Thriller"
+                }
+              ],
+              "roles": [
+                {
+                  "role": "Le narrateur"
+                },
+                {
+                  "role": "Tyler Durden"
+                }
+              ]
+            },
+            {
+              "titre": "The Matrix",
+              "anneeSortie": 1999,
+              "prix": 10.99,
+              "resume": "Un pirate informatique découvre que la réalité telle que nous la connaissons est une simulation créée par des machines.",
+              "nombreEvaluations": 0,
+              "nombreVentes": 0,
+              "reductionAbonne": 0.15,
+              "acteurs": [
+                {
+                  "nom": "Reeves",
+                  "prenom": "Keanu"
+                },
+                {
+                  "nom": "Moss",
+                  "prenom": "Carrie-Anne"
+                },
+                {
+                  "nom": "Fishburne",
+                  "prenom": "Laurence"
+                }
+              ],
+              "producteurs": [
+                {
+                  "nom": "Wachowski",
+                  "prenom": "Lana \u0026 Lilly"
+                }
+              ],
+              "evaluations": [],
+              "themes": [
+                {
+                  "nom": "Action"
+                },
+                {
+                  "nom": "Science-Fiction"
+                }
+              ],
+              "roles": [
+                {
+                  "role": "Neo"
+                },
+                {
+                  "role": "Trinity"
+                }
+              ]
+            },
+            {
+              "titre": "Fight Club",
+              "anneeSortie": 1999,
+              "prix": 9.99,
+              "resume": "Un employé de bureau insatisfait crée un club de combat clandestin comme moyen de trouver un sens à sa vie.",
+              "nombreEvaluations": 0,
+              "nombreVentes": 0,
+              "reductionAbonne": 0.12,
+              "acteurs": [
+                {
+                  "nom": "Norton",
+                  "prenom": "Edward"
+                },
+                {
+                  "nom": "Pitt",
+                  "prenom": "Brad"
+                },
+                {
+                  "nom": "Bonham Carter",
+                  "prenom": "Helena"
+                }
+              ],
+              "producteurs": [
+                {
+                  "nom": "Fincher",
+                  "prenom": "David"
+                }
+              ],
+              "evaluations": [],
+              "themes": [
+                {
+                  "nom": "Drame"
+                },
+                {
+                  "nom": "Thriller"
+                }
+              ],
+              "roles": [
+                {
+                  "role": "Le narrateur"
+                },
+                {
+                  "role": "Tyler Durden"
+                }
+              ]
+            }
+          ]
+        },
+        "panier": {
+          "PrixAPayer": 352.86,
+          "TvaAppliquee": 0.2,
+          "films": []
+        },
+        "abonnement": {},
+        "utilisateurID": 0,
+        "pseudonyme": "a",
+        "nom": "a",
+        "prenom": "a",
+        "email": "a",
+        "motDePasse": "a",
+        "phraseSecrete": "a",
+        "adresse": "a",
+        "pays": "FRANCE"
+      },
+      {
+        "historiqueAchat": [],
+        "vitrine": {},
+        "panier": {
+          "PrixAPayer": 0.0,
+          "TvaAppliquee": 0.0,
+          "films": []
+        },
+        "abonnement": {},
+        "utilisateurID": 0,
+        "pseudonyme": "e",
+        "nom": "e",
+        "prenom": "e",
+        "email": "e",
+        "motDePasse": "e",
+        "phraseSecrete": "e",
+        "adresse": "e",
+        "pays": "FRANCE"
+      },
+      {
+        "historiqueAchat": [],
+        "vitrine": {},
+        "panier": {
+          "PrixAPayer": 0.0,
+          "TvaAppliquee": 0.0,
+          "films": []
+        },
+        "abonnement": {},
+        "utilisateurID": 0,
+        "pseudonyme": "w",
+        "nom": "w",
+        "prenom": "w",
+        "email": "w",
+        "motDePasse": "w",
+        "phraseSecrete": "w",
+        "adresse": "w",
+        "pays": "FRANCE"
+      },
+      {
+        "historiqueAchat": [],
+        "vitrine": {},
+        "panier": {
+          "PrixAPayer": 0.0,
+          "TvaAppliquee": 0.0,
+          "films": []
+        },
+        "abonnement": {},
+        "utilisateurID": 0,
+        "pseudonyme": "a",
+        "nom": "a",
+        "prenom": "a",
+        "email": "a",
+        "motDePasse": "a",
+        "phraseSecrete": "a",
+        "adresse": "a",
+        "pays": "FRANCE"
+      },
+      {
+        "historiqueAchat": [],
+        "vitrine": {},
+        "panier": {
+          "PrixAPayer": 0.0,
+          "TvaAppliquee": 0.0,
+          "films": []
+        },
+        "abonnement": {},
+        "utilisateurID": 0,
+        "pseudonyme": "vic",
+        "nom": "vic",
+        "prenom": "vic",
+        "email": "vic",
+        "motDePasse": "vic",
+        "phraseSecrete": "vic",
+        "adresse": "vic",
+        "pays": "FRANCE"
+      },
+      {
+        "historiqueAchat": [],
+        "vitrine": {},
+        "panier": {
+          "PrixAPayer": 0.0,
+          "TvaAppliquee": 0.0,
+          "films": []
+        },
+        "abonnement": {},
+        "utilisateurID": 0,
+        "pseudonyme": "mama",
+        "nom": "mama",
+        "prenom": "mama",
+        "email": "mama",
+        "motDePasse": "mama",
+        "phraseSecrete": "mama",
+        "adresse": "mama",
+        "pays": "FRANCE"
+      }
+    ]
+  }
+]

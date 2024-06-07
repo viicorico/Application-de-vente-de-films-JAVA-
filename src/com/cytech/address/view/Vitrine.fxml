@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="800.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.cytech.address.view.VitrineController">
+   <top>
+      <HBox prefHeight="100.0" prefWidth="838.0" spacing="10.0" stylesheets="@style.css" BorderPane.alignment="CENTER">
+         <children>
+            <ImageView fitHeight="98.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../img/cineglobe-removebg-preview.png" />
+               </image>
+            </ImageView>
+            <Separator orientation="VERTICAL" prefHeight="200.0" />
+            <HBox alignment="CENTER" prefHeight="100.0" prefWidth="205.0" spacing="20.0">
+               <children>
+                  <TextField maxHeight="-Infinity">
+                     <cursor>
+                        <Cursor fx:constant="DEFAULT" />
+                     </cursor>
+                  </TextField>
+                  <ImageView fitHeight="18.0" fitWidth="33.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../../img/logoRecherche.png" />
+                     </image>
+                     <HBox.margin>
+                        <Insets />
+                     </HBox.margin>
+                     <cursor>
+                        <Cursor fx:constant="OPEN_HAND" />
+                     </cursor>
+                  </ImageView>
+               </children>
+            </HBox>
+         </children>
+      </HBox>
+   </top>
+   <left>
+      <VBox prefHeight="200.0" prefWidth="175.0" BorderPane.alignment="CENTER">
+         <children>
+            <VBox alignment="TOP_CENTER" prefHeight="143.0" prefWidth="162.0">
+               <children>
+                  <Label alignment="TOP_LEFT" text="Bienvenue">
+                     <font>
+                        <Font name="Berlin Sans FB" size="17.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="usernameLabel" text="Username">
+                     <font>
+                        <Font name="Berlin Sans FB" size="22.0" />
+                     </font>
+                  </Label>
+                  <Separator prefWidth="200.0">
+                     <padding>
+                        <Insets top="20.0" />
+                     </padding>
+                  </Separator>
+                  <Button fx:id="vitrine_bt" mnemonicParsing="false" onAction="#switchForm" prefHeight="30.0" prefWidth="150.0" text="Vitrine">
+                     <cursor>
+                        <Cursor fx:constant="OPEN_HAND" />
+                     </cursor>
+                     <VBox.margin>
+                        <Insets top="20.0" />
+                     </VBox.margin>
+                  </Button>
+               </children>
+            </VBox>
+            <VBox alignment="CENTER" prefHeight="107.0" prefWidth="175.0">
+               <children>
+                  <Button fx:id="panier_bt" mnemonicParsing="false" onAction="#switchForm" prefHeight="30.0" prefWidth="150.0" text="Panier">
+                     <cursor>
+                        <Cursor fx:constant="OPEN_HAND" />
+                     </cursor>
+                  </Button>
+               </children>
+            </VBox>
+            <VBox alignment="CENTER" prefHeight="126.0" prefWidth="175.0">
+               <children>
+                  <VBox alignment="CENTER" prefHeight="126.0" prefWidth="175.0">
+                     <children>
+                        <Button fx:id="historiqueAchats_bt" mnemonicParsing="false" onAction="#switchForm" prefHeight="30.0" prefWidth="150.0" text="Historique d'achats">
+                           <cursor>
+                              <Cursor fx:constant="OPEN_HAND" />
+                           </cursor>
+                        </Button>
+                     </children>
+                  </VBox>
+               </children>
+            </VBox>
+            <VBox alignment="CENTER" prefHeight="102.0" prefWidth="175.0">
+               <children>
+                  <Button fx:id="deconnexion_bt" mnemonicParsing="false" onAction="#seDeconnecter" prefHeight="30.0" prefWidth="150.0" text="Deconnexion">
+                     <cursor>
+                        <Cursor fx:constant="OPEN_HAND" />
+                     </cursor>
+                  </Button>
+               </children>
+            </VBox>
+         </children>
+      </VBox>
+   </left>
+   <center>
+      <AnchorPane fx:id="commentaire_form" minHeight="-Infinity" minWidth="-Infinity" prefHeight="558.0" prefWidth="563.0" styleClass="form">
+         <children>
+            <AnchorPane fx:id="vitrine_form" layoutX="53.0" layoutY="87.0" prefHeight="600.0" prefWidth="624.8" stylesheets="@style.css" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+               <children>
+                  <ScrollPane layoutX="3.0" layoutY="51.0" prefHeight="482.0" prefWidth="610.0">
+                     <content>
+                        <TableView fx:id="tableView" onMouseClicked="#handleTableViewDoubleClick" prefHeight="467.0" prefWidth="613.0">
+                           <columns>
+                              <TableColumn fx:id="titreColumn" prefWidth="75.0" text="Titre" />
+                              <TableColumn fx:id="anneeColumn" prefWidth="75.0" text="Année" />
+                              <TableColumn fx:id="nombreEvaluationsColumn" prefWidth="75.0" text="Note" />
+                              <TableColumn fx:id="resumeColumn" prefWidth="75.0" text="Résumé" />
+                              <TableColumn fx:id="prixColumn" prefWidth="75.0" text="Prix" />
+                              <TableColumn fx:id="ajouterPanierColumn" prefWidth="75.0" text="Ajouter au panier" />
+                           </columns>
+                           <columnResizePolicy>
+                              <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+                           </columnResizePolicy>
+                        </TableView>
+                     </content>
+                  </ScrollPane>
+                  <Label layoutX="14.0" layoutY="14.0" text="Votre vitrine">
+                     <font>
+                        <Font name="Berlin Sans FB" size="24.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="207.0" layoutY="559.0" stylesheets="@style.css" text="2024 CineGlobe. All rights reserved">
+                     <font>
+                        <Font name="Berlin Sans FB" size="12.0" />
+                     </font>
+                  </Label>
+               </children>
+            </AnchorPane>
+            <AnchorPane fx:id="panier_form" layoutX="183.0" layoutY="88.0" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="624.8" stylesheets="@style.css" visible="false" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+               <children>
+                  <AnchorPane layoutX="-14.0" layoutY="211.0" minHeight="-Infinity" minWidth="-Infinity" prefHeight="366.0" prefWidth="625.0" AnchorPane.bottomAnchor="23.0" AnchorPane.leftAnchor="-14.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="211.0">
+                     <children>
+                        <ScrollPane layoutX="14.0" layoutY="-30.0" prefHeight="344.0" prefWidth="625.0" AnchorPane.bottomAnchor="51.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="-14.0" AnchorPane.topAnchor="-30.0">
+                           <content>
+                              <TableView fx:id="tablePanier" prefHeight="362.0" prefWidth="625.0">
+                                 <columns>
+                                    <TableColumn fx:id="filmPanierColumn" prefWidth="75.0" text="Film" />
+                                    <TableColumn fx:id="reductionPanierColumn" prefWidth="75.0" text="Réduction" />
+                                    <TableColumn fx:id="prixPanierColumn" prefWidth="75.0" text="Prix" />
+                                    <TableColumn fx:id="supprimerDuPanierColumn" prefWidth="75.0" text="Supprimer du panier" />
+                                 </columns>
+                                 <columnResizePolicy>
+                                    <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+                                 </columnResizePolicy>
+                              </TableView>
+                           </content>
+                        </ScrollPane>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane prefHeight="211.0" prefWidth="713.0" stylesheets="@style.css">
+                     <children>
+                        <Label layoutX="43.0" layoutY="59.0" prefHeight="22.0" prefWidth="42.0" stylesheets="@style.css">
+                           <font>
+                              <Font name="Berlin Sans FB" size="19.0" />
+                           </font>
+                        </Label>
+                        <Button fx:id="payer_bt" layoutX="241.0" layoutY="99.0" mnemonicParsing="false" onAction="#payerAchat" prefHeight="40.0" prefWidth="110.0" text="Payer">
+                           <cursor>
+                              <Cursor fx:constant="OPEN_HAND" />
+                           </cursor>
+                        </Button>
+                        <HBox alignment="CENTER" layoutX="148.0" layoutY="41.0" prefHeight="36.0" prefWidth="294.0">
+                           <children>
+                              <Label prefHeight="31.0" prefWidth="66.0" text="Total :">
+                                 <font>
+                                    <Font size="21.0" />
+                                 </font>
+                              </Label>
+                              <Label fx:id="prixSansTva" text="0.0">
+                                 <font>
+                                    <Font size="21.0" />
+                                 </font>
+                                 <HBox.margin>
+                                    <Insets left="5.0" right="5.0" />
+                                 </HBox.margin>
+                              </Label>
+                              <Label text="€">
+                                 <font>
+                                    <Font size="21.0" />
+                                 </font>
+                              </Label>
+                           </children>
+                        </HBox>
+                     </children>
+                  </AnchorPane>
+               </children>
+            </AnchorPane>
+            <AnchorPane fx:id="commentaire_form" prefHeight="600.0" prefWidth="624.8" visible="false" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+               <children>
+                  <TextField fx:id="commentaireTextField" alignment="TOP_LEFT" layoutX="20.0" layoutY="402.0" prefHeight="72.0" prefWidth="581.0" stylesheets="@style.css" />
+                  <Button fx:id="soumettreEvaluationButton" layoutX="368.0" layoutY="524.0" mnemonicParsing="false" onAction="#soumettreEvaluation" text="Ajouter évaluation" />
+                  <ScrollPane layoutX="4.0" layoutY="12.0" prefHeight="336.0" prefWidth="614.0">
+                     <content>
+                        <TableView fx:id="tableEvaluation" prefHeight="325.0" prefWidth="614.0" stylesheets="@style.css">
+                          <columns>
+                            <TableColumn fx:id="utilisateurColumn" prefWidth="75.0" text="Utilisateur" />
+                            <TableColumn fx:id="commentaireColumn" prefWidth="75.0" text="Commentaire" />
+                            <TableColumn fx:id="noteColumn" prefWidth="75.0" text="note" />
+                            <TableColumn fx:id="dateColumn" prefWidth="75.0" text="date" />
+                          </columns>
+                           <columnResizePolicy>
+                              <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+                           </columnResizePolicy>
+                        </TableView>
+                     </content>
+                  </ScrollPane>
+                  <Label layoutX="29.0" layoutY="489.0" text="Note">
+                     <font>
+                        <Font name="Berlin Sans FB" size="24.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="29.0" layoutY="374.0" text="Commentaire">
+                     <font>
+                        <Font name="Berlin Sans FB" size="24.0" />
+                     </font>
+                  </Label>
+                  <TextField fx:id="noteTextField" layoutX="23.0" layoutY="516.0" />
+               </children>
+            </AnchorPane>
+            <AnchorPane fx:id="historiqueAchats_form" prefHeight="600.0" prefWidth="624.8" visible="false" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+               <children>
+                  <Label layoutX="6.0" layoutY="65.0" text="Mes Achats">
+                     <font>
+                        <Font name="Berlin Sans FB" size="24.0" />
+                     </font>
+                     <padding>
+                        <Insets left="20.0" />
+                     </padding>
+                  </Label>
+                  <ScrollPane prefHeight="494.0" prefWidth="614.0">
+                     <content>
+                        <TableView fx:id="tableAchats" onMouseClicked="#handleTableViewDoubleClick" prefHeight="519.0" prefWidth="613.0">
+                                 <columns>
+                                    <TableColumn fx:id="titreHistorique_Column" prefWidth="75.0" text="Titre" />
+                                    <TableColumn fx:id="anneeHistorique_Column" prefWidth="75.0" text="Année" />
+                                    <TableColumn fx:id="resumeHistorique_Column" prefWidth="75.0" text="Résumé" />
+                                    <TableColumn fx:id="prixHistorique_Column" prefWidth="75.0" text="Prix" />
+                                 </columns>
+                                 <columnResizePolicy>
+                                    <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+                                 </columnResizePolicy>
+                              </TableView>
+                     </content>
+                  </ScrollPane>
+               </children>
+            </AnchorPane>
+         </children>
+      </AnchorPane>
+   </center>
+</BorderPane>

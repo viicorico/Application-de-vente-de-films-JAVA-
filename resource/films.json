@@ -1,0 +1,2143 @@
+[
+  {
+    "name": "NomCategorie",
+    "lstPdt": [
+      {
+        "titre": "The Silence of the Lambs",
+        "anneeSortie": 1991,
+        "prix": 9.99,
+        "resume": "Une jeune stagiaire du FBI doit obtenir l\u0027aide d\u0027un psychopathe cannibale pour attraper un autre tueur en série.",
+        "nombreEvaluations": 0,
+        "nombreVentes": 0,
+        "reductionAbonne": 0.1,
+        "acteurs": [
+          {
+            "nom": "Foster",
+            "prenom": "Jodie"
+          },
+          {
+            "nom": "Hopkins",
+            "prenom": "Anthony"
+          },
+          {
+            "nom": "Levine",
+            "prenom": "Ted"
+          }
+        ],
+        "producteurs": [
+          {
+            "nom": "Demme",
+            "prenom": "Jonathan"
+          }
+        ],
+        "evaluations": [],
+        "themes": [
+          {
+            "nom": "Crime"
+          },
+          {
+            "nom": "Horreur"
+          },
+          {
+            "nom": "Thriller"
+          }
+        ],
+        "roles": [
+          {
+            "role": "Clarice Starling"
+          },
+          {
+            "role": "Dr. Hannibal Lecter"
+          }
+        ]
+      },
+      {
+        "titre": "Avengers: Endgame",
+        "anneeSortie": 2019,
+        "prix": 12.99,
+        "resume": "Les Avengers tentent de récupérer les gemmes de l\u0027infini pour restaurer l\u0027univers après le claquement de doigts de Thanos.",
+        "nombreEvaluations": 2,
+        "nombreVentes": 0,
+        "reductionAbonne": 0.2,
+        "acteurs": [
+          {
+            "nom": "Downey Jr.",
+            "prenom": "Robert"
+          },
+          {
+            "nom": "Evans",
+            "prenom": "Chris"
+          },
+          {
+            "nom": "Johansson",
+            "prenom": "Scarlett"
+          }
+        ],
+        "producteurs": [
+          {
+            "nom": "Feige",
+            "prenom": "Kevin"
+          },
+          {
+            "nom": "Russo",
+            "prenom": "Joe"
+          }
+        ],
+        "evaluations": [
+          {
+            "utilisateur": {
+              "utilisateurID": 0,
+              "pseudonyme": "a",
+              "nom": "a",
+              "prenom": "a",
+              "email": "a",
+              "motDePasse": "a",
+              "phraseSecrete": "a",
+              "adresse": "a",
+              "pays": "FRANCE"
+            },
+            "note": 10,
+            "commentaire": "J\u0027AAADOOORE",
+            "date": "2024-04-24",
+            "active": true
+          },
+          {
+            "utilisateur": {
+              "historiqueAchat": [],
+              "vitrine": {
+                "filmRecent": [
+                  {
+                    "titre": "Terminator",
+                    "anneeSortie": 2020,
+                    "prix": 30.0,
+                    "resume": "yggu",
+                    "nombreEvaluations": 0,
+                    "nombreVentes": 0,
+                    "reductionAbonne": 0.5,
+                    "acteurs": [
+                      {
+                        "nom": "Jean",
+                        "prenom": "Jacques"
+                      }
+                    ],
+                    "producteurs": [
+                      {
+                        "nom": "Jean",
+                        "prenom": "Jacques"
+                      }
+                    ],
+                    "evaluations": [],
+                    "themes": [
+                      {
+                        "nom": "Action fantasy"
+                      }
+                    ],
+                    "roles": [
+                      {
+                        "role": "Secondaire"
+                      }
+                    ]
+                  },
+                  {
+                    "titre": "Avengers: Endgame",
+                    "anneeSortie": 2019,
+                    "prix": 12.99,
+                    "resume": "Les Avengers tentent de récupérer les gemmes de l\u0027infini pour restaurer l\u0027univers après le claquement de doigts de Thanos.",
+                    "nombreEvaluations": 1,
+                    "nombreVentes": 0,
+                    "reductionAbonne": 0.2,
+                    "acteurs": [
+                      {
+                        "nom": "Downey Jr.",
+                        "prenom": "Robert"
+                      },
+                      {
+                        "nom": "Evans",
+                        "prenom": "Chris"
+                      },
+                      {
+                        "nom": "Johansson",
+                        "prenom": "Scarlett"
+                      }
+                    ],
+                    "producteurs": [
+                      {
+                        "nom": "Feige",
+                        "prenom": "Kevin"
+                      },
+                      {
+                        "nom": "Russo",
+                        "prenom": "Joe"
+                      }
+                    ],
+                    "evaluations": [
+                      {
+                        "utilisateur": {
+                          "utilisateurID": 0,
+                          "pseudonyme": "a",
+                          "nom": "a",
+                          "prenom": "a",
+                          "email": "a",
+                          "motDePasse": "a",
+                          "phraseSecrete": "a",
+                          "adresse": "a",
+                          "pays": "FRANCE"
+                        },
+                        "note": 10,
+                        "commentaire": "J\u0027AAADOOORE",
+                        "date": "2024-04-24",
+                        "active": true
+                      }
+                    ],
+                    "themes": [
+                      {
+                        "nom": "Action"
+                      },
+                      {
+                        "nom": "Aventure"
+                      },
+                      {
+                        "nom": "Science-Fiction"
+                      }
+                    ],
+                    "roles": [
+                      {
+                        "role": "Iron Man"
+                      },
+                      {
+                        "role": "Captain America"
+                      }
+                    ]
+                  },
+                  {
+                    "titre": "Interstellar",
+                    "anneeSortie": 2014,
+                    "prix": 11.99,
+                    "resume": "Un groupe d\u0027explorateurs utilise un trou de ver pour tenter de trouver une nouvelle planète habitable pour l\u0027humanité.",
+                    "nombreEvaluations": 1,
+                    "nombreVentes": 0,
+                    "reductionAbonne": 0.18,
+                    "acteurs": [
+                      {
+                        "nom": "McConaughey",
+                        "prenom": "Matthew"
+                      },
+                      {
+                        "nom": "Hathaway",
+                        "prenom": "Anne"
+                      },
+                      {
+                        "nom": "Chastain",
+                        "prenom": "Jessica"
+                      }
+                    ],
+                    "producteurs": [
+                      {
+                        "nom": "Nolan",
+                        "prenom": "Christopher"
+                      },
+                      {
+                        "nom": "Lynda",
+                        "prenom": "Emma"
+                      }
+                    ],
+                    "evaluations": [
+                      {
+                        "utilisateur": {
+                          "utilisateurID": 0,
+                          "pseudonyme": "a",
+                          "nom": "a",
+                          "prenom": "a",
+                          "email": "a",
+                          "motDePasse": "a",
+                          "phraseSecrete": "a",
+                          "adresse": "a",
+                          "pays": "FRANCE"
+                        },
+                        "note": 2,
+                        "commentaire": "je déteste",
+                        "date": "2024-04-24",
+                        "active": true
+                      }
+                    ],
+                    "themes": [
+                      {
+                        "nom": "Aventure"
+                      },
+                      {
+                        "nom": "Drame"
+                      },
+                      {
+                        "nom": "Science-Fiction"
+                      }
+                    ],
+                    "roles": [
+                      {
+                        "role": "Cooper"
+                      },
+                      {
+                        "role": "Brand"
+                      }
+                    ]
+                  },
+                  {
+                    "titre": "Interstellar",
+                    "anneeSortie": 2014,
+                    "prix": 11.99,
+                    "resume": "Un groupe d\u0027explorateurs utilise un trou de ver pour tenter de trouver une nouvelle planète habitable pour l\u0027humanité.",
+                    "nombreEvaluations": 0,
+                    "nombreVentes": 0,
+                    "reductionAbonne": 0.18,
+                    "acteurs": [
+                      {
+                        "nom": "McConaughey",
+                        "prenom": "Matthew"
+                      },
+                      {
+                        "nom": "Hathaway",
+                        "prenom": "Anne"
+                      },
+                      {
+                        "nom": "Chastain",
+                        "prenom": "Jessica"
+                      }
+                    ],
+                    "producteurs": [
+                      {
+                        "nom": "Nolan",
+                        "prenom": "Christopher"
+                      },
+                      {
+                        "nom": "Lynda",
+                        "prenom": "Emma"
+                      }
+                    ],
+                    "evaluations": [],
+                    "themes": [
+                      {
+                        "nom": "Aventure"
+                      },
+                      {
+                        "nom": "Drame"
+                      },
+                      {
+                        "nom": "Science-Fiction"
+                      }
+                    ],
+                    "roles": [
+                      {
+                        "role": "Cooper"
+                      },
+                      {
+                        "role": "Brand"
+                      }
+                    ]
+                  },
+                  {
+                    "titre": "Inception",
+                    "anneeSortie": 2010,
+                    "prix": 10.99,
+                    "resume": "Un voleur expérimenté entre dans les rêves de ses cibles pour voler leurs secrets les plus précieux.",
+                    "nombreEvaluations": 0,
+                    "nombreVentes": 0,
+                    "reductionAbonne": 0.18,
+                    "acteurs": [
+                      {
+                        "nom": "DiCaprio",
+                        "prenom": "Leonardo"
+                      },
+                      {
+                        "nom": "Gordon-Levitt",
+                        "prenom": "Joseph"
+                      },
+                      {
+                        "nom": "Page",
+                        "prenom": "Ellen"
+                      }
+                    ],
+                    "producteurs": [
+                      {
+                        "nom": "Nolan",
+                        "prenom": "Christopher"
+                      }
+                    ],
+                    "evaluations": [],
+                    "themes": [
+                      {
+                        "nom": "Action"
+                      },
+                      {
+                        "nom": "Aventure"
+                      },
+                      {
+                        "nom": "Science-Fiction"
+                      },
+                      {
+                        "nom": "Thriller"
+                      }
+                    ],
+                    "roles": [
+                      {
+                        "role": "Dom Cobb"
+                      },
+                      {
+                        "role": "Arthur"
+                      }
+                    ]
+                  },
+                  {
+                    "titre": "Inception",
+                    "anneeSortie": 2010,
+                    "prix": 10.99,
+                    "resume": "Un voleur d\u0027élite vole des secrets en les infiltrant dans les rêves de ses cibles.",
+                    "nombreEvaluations": 0,
+                    "nombreVentes": 0,
+                    "reductionAbonne": 0.17,
+                    "acteurs": [
+                      {
+                        "nom": "DiCaprio",
+                        "prenom": "Leonardo"
+                      },
+                      {
+                        "nom": "Gordon-Levitt",
+                        "prenom": "Joseph"
+                      },
+                      {
+                        "nom": "Page",
+                        "prenom": "Ellen"
+                      }
+                    ],
+                    "producteurs": [
+                      {
+                        "nom": "Nolan",
+                        "prenom": "Christopher"
+                      }
+                    ],
+                    "evaluations": [],
+                    "themes": [
+                      {
+                        "nom": "Action"
+                      },
+                      {
+                        "nom": "Science-Fiction"
+                      },
+                      {
+                        "nom": "Thriller"
+                      }
+                    ],
+                    "roles": [
+                      {
+                        "role": "Dom Cobb"
+                      },
+                      {
+                        "role": "Arthur"
+                      }
+                    ]
+                  },
+                  {
+                    "titre": "The Dark Knight",
+                    "anneeSortie": 2008,
+                    "prix": 11.99,
+                    "resume": "Batman affronte le Joker dans une bataille d\u0027intelligence et de volonté pour protéger Gotham City.",
+                    "nombreEvaluations": 0,
+                    "nombreVentes": 0,
+                    "reductionAbonne": 0.2,
+                    "acteurs": [
+                      {
+                        "nom": "Bale",
+                        "prenom": "Christian"
+                      },
+                      {
+                        "nom": "Ledger",
+                        "prenom": "Heath"
+                      },
+                      {
+                        "nom": "Eckhart",
+                        "prenom": "Aaron"
+                      }
+                    ],
+                    "producteurs": [
+                      {
+                        "nom": "Nolan",
+                        "prenom": "Christopher"
+                      },
+                      {
+                        "nom": "Thomas",
+                        "prenom": "Emma"
+                      }
+                    ],
+                    "evaluations": [],
+                    "themes": [
+                      {
+                        "nom": "Action"
+                      },
+                      {
+                        "nom": "Crime"
+                      },
+                      {
+                        "nom": "Drame"
+                      },
+                      {
+                        "nom": "Thriller"
+                      }
+                    ],
+                    "roles": [
+                      {
+                        "role": "Batman"
+                      },
+                      {
+                        "role": "The Joker"
+                      }
+                    ]
+                  },
+                  {
+                    "titre": "The Lord of the Rings: The Fellowship of the Ring",
+                    "anneeSortie": 2001,
+                    "prix": 10.99,
+                    "resume": "Un jeune hobbit est chargé de détruire un anneau puissant avant qu\u0027il ne tombe entre les mains du Seigneur des Ténèbres.",
+                    "nombreEvaluations": 0,
+                    "nombreVentes": 0,
+                    "reductionAbonne": 0.15,
+                    "acteurs": [
+                      {
+                        "nom": "Wood",
+                        "prenom": "Elijah"
+                      },
+                      {
+                        "nom": "McKellen",
+                        "prenom": "Ian"
+                      },
+                      {
+                        "nom": "Bloom",
+                        "prenom": "Orlando"
+                      }
+                    ],
+                    "producteurs": [
+                      {
+                        "nom": "Jackson",
+                        "prenom": "Peter"
+                      }
+                    ],
+                    "evaluations": [],
+                    "themes": [
+                      {
+                        "nom": "Action"
+                      },
+                      {
+                        "nom": "Aventure"
+                      },
+                      {
+                        "nom": "Fantasy"
+                      }
+                    ],
+                    "roles": [
+                      {
+                        "role": "Frodo Baggins"
+                      },
+                      {
+                        "role": "Gandalf"
+                      }
+                    ]
+                  },
+                  {
+                    "titre": "titanic2",
+                    "anneeSortie": 2000,
+                    "prix": 20.0,
+                    "resume": "kdkl",
+                    "nombreEvaluations": 0,
+                    "nombreVentes": 0,
+                    "reductionAbonne": 0.5,
+                    "acteurs": [
+                      {
+                        "nom": "jean",
+                        "prenom": ""
+                      }
+                    ],
+                    "producteurs": [
+                      {
+                        "nom": "jean",
+                        "prenom": "del"
+                      }
+                    ],
+                    "evaluations": [],
+                    "themes": [
+                      {
+                        "nom": "Action"
+                      }
+                    ],
+                    "roles": [
+                      {
+                        "role": "secondaire"
+                      }
+                    ]
+                  },
+                  {
+                    "titre": "titanic3",
+                    "anneeSortie": 2000,
+                    "prix": 20.0,
+                    "resume": "un bateau",
+                    "nombreEvaluations": 0,
+                    "nombreVentes": 0,
+                    "reductionAbonne": 0.5,
+                    "acteurs": [
+                      {
+                        "nom": "jean",
+                        "prenom": "jacque,"
+                      }
+                    ],
+                    "producteurs": [
+                      {
+                        "nom": "jean",
+                        "prenom": "jacque"
+                      }
+                    ],
+                    "evaluations": [],
+                    "themes": [
+                      {
+                        "nom": "Action"
+                      }
+                    ],
+                    "roles": [
+                      {
+                        "role": "secondaire"
+                      }
+                    ]
+                  },
+                  {
+                    "titre": "Fight Club",
+                    "anneeSortie": 1999,
+                    "prix": 9.99,
+                    "resume": "Un employé de bureau insatisfait crée un club de combat clandestin comme moyen de trouver un sens à sa vie.",
+                    "nombreEvaluations": 0,
+                    "nombreVentes": 0,
+                    "reductionAbonne": 0.12,
+                    "acteurs": [
+                      {
+                        "nom": "Norton",
+                        "prenom": "Edward"
+                      },
+                      {
+                        "nom": "Pitt",
+                        "prenom": "Brad"
+                      },
+                      {
+                        "nom": "Bonham Carter",
+                        "prenom": "Helena"
+                      }
+                    ],
+                    "producteurs": [
+                      {
+                        "nom": "Fincher",
+                        "prenom": "David"
+                      }
+                    ],
+                    "evaluations": [],
+                    "themes": [
+                      {
+                        "nom": "Drame"
+                      },
+                      {
+                        "nom": "Thriller"
+                      }
+                    ],
+                    "roles": [
+                      {
+                        "role": "Le narrateur"
+                      },
+                      {
+                        "role": "Tyler Durden"
+                      }
+                    ]
+                  },
+                  {
+                    "titre": "The Matrix",
+                    "anneeSortie": 1999,
+                    "prix": 10.99,
+                    "resume": "Un pirate informatique découvre que la réalité telle que nous la connaissons est une simulation créée par des machines.",
+                    "nombreEvaluations": 0,
+                    "nombreVentes": 0,
+                    "reductionAbonne": 0.15,
+                    "acteurs": [
+                      {
+                        "nom": "Reeves",
+                        "prenom": "Keanu"
+                      },
+                      {
+                        "nom": "Moss",
+                        "prenom": "Carrie-Anne"
+                      },
+                      {
+                        "nom": "Fishburne",
+                        "prenom": "Laurence"
+                      }
+                    ],
+                    "producteurs": [
+                      {
+                        "nom": "Wachowski",
+                        "prenom": "Lana \u0026 Lilly"
+                      }
+                    ],
+                    "evaluations": [],
+                    "themes": [
+                      {
+                        "nom": "Action"
+                      },
+                      {
+                        "nom": "Science-Fiction"
+                      }
+                    ],
+                    "roles": [
+                      {
+                        "role": "Neo"
+                      },
+                      {
+                        "role": "Trinity"
+                      }
+                    ]
+                  },
+                  {
+                    "titre": "Fight Club",
+                    "anneeSortie": 1999,
+                    "prix": 9.99,
+                    "resume": "Un employé de bureau insatisfait crée un club de combat clandestin comme moyen de trouver un sens à sa vie.",
+                    "nombreEvaluations": 0,
+                    "nombreVentes": 0,
+                    "reductionAbonne": 0.12,
+                    "acteurs": [
+                      {
+                        "nom": "Norton",
+                        "prenom": "Edward"
+                      },
+                      {
+                        "nom": "Pitt",
+                        "prenom": "Brad"
+                      },
+                      {
+                        "nom": "Bonham Carter",
+                        "prenom": "Helena"
+                      }
+                    ],
+                    "producteurs": [
+                      {
+                        "nom": "Fincher",
+                        "prenom": "David"
+                      }
+                    ],
+                    "evaluations": [],
+                    "themes": [
+                      {
+                        "nom": "Drame"
+                      },
+                      {
+                        "nom": "Thriller"
+                      }
+                    ],
+                    "roles": [
+                      {
+                        "role": "Le narrateur"
+                      },
+                      {
+                        "role": "Tyler Durden"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "panier": {
+                "PrixAPayer": 0.0,
+                "TvaAppliquee": 0.0,
+                "films": []
+              },
+              "abonnement": {},
+              "utilisateurID": 0,
+              "pseudonyme": "vic",
+              "nom": "vic",
+              "prenom": "vic",
+              "email": "vic",
+              "motDePasse": "vic",
+              "phraseSecrete": "vic",
+              "adresse": "vic",
+              "pays": "FRANCE"
+            },
+            "note": 0,
+            "commentaire": "je n\u0027aime pas",
+            "date": "2024-04-24",
+            "active": true
+          }
+        ],
+        "themes": [
+          {
+            "nom": "Action"
+          },
+          {
+            "nom": "Aventure"
+          },
+          {
+            "nom": "Science-Fiction"
+          }
+        ],
+        "roles": [
+          {
+            "role": "Iron Man"
+          },
+          {
+            "role": "Captain America"
+          }
+        ]
+      },
+      {
+        "titre": "Jurassic Park",
+        "anneeSortie": 1993,
+        "prix": 9.99,
+        "resume": "Un parc à thème de dinosaures génétiquement modifiés échappe à tout contrôle, mettant en danger les visiteurs.",
+        "nombreEvaluations": 0,
+        "nombreVentes": 0,
+        "reductionAbonne": 0.15,
+        "acteurs": [
+          {
+            "nom": "Neill",
+            "prenom": "Sam"
+          },
+          {
+            "nom": "Dern",
+            "prenom": "Laura"
+          },
+          {
+            "nom": "Goldblum",
+            "prenom": "Jeff"
+          }
+        ],
+        "producteurs": [
+          {
+            "nom": "Spielberg",
+            "prenom": "Steven"
+          },
+          {
+            "nom": "Kennedy",
+            "prenom": "Kathleen"
+          }
+        ],
+        "evaluations": [],
+        "themes": [
+          {
+            "nom": "Aventure"
+          },
+          {
+            "nom": "Science-Fiction"
+          },
+          {
+            "nom": "Thriller"
+          }
+        ],
+        "roles": [
+          {
+            "role": "Dr. Alan Grant"
+          },
+          {
+            "role": "Dr. Ellie Sattler"
+          }
+        ]
+      },
+      {
+        "titre": "Inception",
+        "anneeSortie": 2010,
+        "prix": 10.99,
+        "resume": "Un voleur expérimenté entre dans les rêves de ses cibles pour voler leurs secrets les plus précieux.",
+        "nombreEvaluations": 0,
+        "nombreVentes": 0,
+        "reductionAbonne": 0.18,
+        "acteurs": [
+          {
+            "nom": "DiCaprio",
+            "prenom": "Leonardo"
+          },
+          {
+            "nom": "Gordon-Levitt",
+            "prenom": "Joseph"
+          },
+          {
+            "nom": "Page",
+            "prenom": "Ellen"
+          }
+        ],
+        "producteurs": [
+          {
+            "nom": "Nolan",
+            "prenom": "Christopher"
+          }
+        ],
+        "evaluations": [],
+        "themes": [
+          {
+            "nom": "Action"
+          },
+          {
+            "nom": "Aventure"
+          },
+          {
+            "nom": "Science-Fiction"
+          },
+          {
+            "nom": "Thriller"
+          }
+        ],
+        "roles": [
+          {
+            "role": "Dom Cobb"
+          },
+          {
+            "role": "Arthur"
+          }
+        ]
+      },
+      {
+        "titre": "The Dark Knight",
+        "anneeSortie": 2008,
+        "prix": 11.99,
+        "resume": "Batman affronte le Joker dans une bataille d\u0027intelligence et de volonté pour protéger Gotham City.",
+        "nombreEvaluations": 0,
+        "nombreVentes": 0,
+        "reductionAbonne": 0.2,
+        "acteurs": [
+          {
+            "nom": "Bale",
+            "prenom": "Christian"
+          },
+          {
+            "nom": "Ledger",
+            "prenom": "Heath"
+          },
+          {
+            "nom": "Eckhart",
+            "prenom": "Aaron"
+          }
+        ],
+        "producteurs": [
+          {
+            "nom": "Nolan",
+            "prenom": "Christopher"
+          },
+          {
+            "nom": "Thomas",
+            "prenom": "Emma"
+          }
+        ],
+        "evaluations": [],
+        "themes": [
+          {
+            "nom": "Action"
+          },
+          {
+            "nom": "Crime"
+          },
+          {
+            "nom": "Drame"
+          },
+          {
+            "nom": "Thriller"
+          }
+        ],
+        "roles": [
+          {
+            "role": "Batman"
+          },
+          {
+            "role": "The Joker"
+          }
+        ]
+      },
+      {
+        "titre": "Forrest Gump",
+        "anneeSortie": 1994,
+        "prix": 8.99,
+        "resume": "Les événements marquants de l\u0027histoire américaine sont vus à travers les yeux d\u0027un homme simple d\u0027esprit.",
+        "nombreEvaluations": 0,
+        "nombreVentes": 0,
+        "reductionAbonne": 0.1,
+        "acteurs": [
+          {
+            "nom": "Hanks",
+            "prenom": "Tom"
+          },
+          {
+            "nom": "Wright",
+            "prenom": "Robin"
+          },
+          {
+            "nom": "Sinha",
+            "prenom": "Gary"
+          }
+        ],
+        "producteurs": [
+          {
+            "nom": "Zemeckis",
+            "prenom": "Robert"
+          },
+          {
+            "nom": "Roth",
+            "prenom": "Steve"
+          }
+        ],
+        "evaluations": [],
+        "themes": [
+          {
+            "nom": "Comédie-dramatique"
+          },
+          {
+            "nom": "Romance"
+          }
+        ],
+        "roles": [
+          {
+            "role": "Forrest Gump"
+          },
+          {
+            "role": "Jenny Curran"
+          }
+        ]
+      },
+      {
+        "titre": "Pulp Fiction",
+        "anneeSortie": 1994,
+        "prix": 9.99,
+        "resume": "Des histoires entrelacées de gangsters, de boxeurs, et d\u0027autres personnages marginaux à Los Angeles.",
+        "nombreEvaluations": 0,
+        "nombreVentes": 0,
+        "reductionAbonne": 0.12,
+        "acteurs": [
+          {
+            "nom": "Travolta",
+            "prenom": "John"
+          },
+          {
+            "nom": "Jackson",
+            "prenom": "Samuel L."
+          },
+          {
+            "nom": "Thurman",
+            "prenom": "Uma"
+          }
+        ],
+        "producteurs": [
+          {
+            "nom": "Tarantino",
+            "prenom": "Quentin"
+          }
+        ],
+        "evaluations": [],
+        "themes": [
+          {
+            "nom": "Crime"
+          },
+          {
+            "nom": "Drame"
+          },
+          {
+            "nom": "Thriller"
+          }
+        ],
+        "roles": [
+          {
+            "role": "Vincent Vega"
+          },
+          {
+            "role": "Jules Winnfield"
+          }
+        ]
+      },
+      {
+        "titre": "Interstellar",
+        "anneeSortie": 2014,
+        "prix": 11.99,
+        "resume": "Un groupe d\u0027explorateurs utilise un trou de ver pour tenter de trouver une nouvelle planète habitable pour l\u0027humanité.",
+        "nombreEvaluations": 1,
+        "nombreVentes": 0,
+        "reductionAbonne": 0.18,
+        "acteurs": [
+          {
+            "nom": "McConaughey",
+            "prenom": "Matthew"
+          },
+          {
+            "nom": "Hathaway",
+            "prenom": "Anne"
+          },
+          {
+            "nom": "Chastain",
+            "prenom": "Jessica"
+          }
+        ],
+        "producteurs": [
+          {
+            "nom": "Nolan",
+            "prenom": "Christopher"
+          },
+          {
+            "nom": "Lynda",
+            "prenom": "Emma"
+          }
+        ],
+        "evaluations": [
+          {
+            "utilisateur": {
+              "utilisateurID": 0,
+              "pseudonyme": "a",
+              "nom": "a",
+              "prenom": "a",
+              "email": "a",
+              "motDePasse": "a",
+              "phraseSecrete": "a",
+              "adresse": "a",
+              "pays": "FRANCE"
+            },
+            "note": 2,
+            "commentaire": "je déteste",
+            "date": "2024-04-24",
+            "active": true
+          }
+        ],
+        "themes": [
+          {
+            "nom": "Aventure"
+          },
+          {
+            "nom": "Drame"
+          },
+          {
+            "nom": "Science-Fiction"
+          }
+        ],
+        "roles": [
+          {
+            "role": "Cooper"
+          },
+          {
+            "role": "Brand"
+          }
+        ]
+      },
+      {
+        "titre": "The Shawshank Redemption",
+        "anneeSortie": 1994,
+        "prix": 8.99,
+        "resume": "Deux hommes condamnés à la prison perpétuelle se lient d\u0027amitié et trouvent l\u0027espoir au milieu de l\u0027injustice.",
+        "nombreEvaluations": 0,
+        "nombreVentes": 0,
+        "reductionAbonne": 0.1,
+        "acteurs": [
+          {
+            "nom": "Robbins",
+            "prenom": "Tim"
+          },
+          {
+            "nom": "Freeman",
+            "prenom": "Morgan"
+          },
+          {
+            "nom": "Gunton",
+            "prenom": "Bob"
+          }
+        ],
+        "producteurs": [
+          {
+            "nom": "Darabont",
+            "prenom": "Frank"
+          },
+          {
+            "nom": "Marvin",
+            "prenom": "Nick"
+          }
+        ],
+        "evaluations": [],
+        "themes": [
+          {
+            "nom": "Drame"
+          },
+          {
+            "nom": "Crime"
+          }
+        ],
+        "roles": [
+          {
+            "role": "Andy Dufresne"
+          },
+          {
+            "role": "Ellis Boyd \u0027Red\u0027 Redding"
+          }
+        ]
+      },
+      {
+        "titre": "Fight Club",
+        "anneeSortie": 1999,
+        "prix": 9.99,
+        "resume": "Un employé de bureau insatisfait crée un club de combat clandestin comme moyen de trouver un sens à sa vie.",
+        "nombreEvaluations": 0,
+        "nombreVentes": 0,
+        "reductionAbonne": 0.12,
+        "acteurs": [
+          {
+            "nom": "Norton",
+            "prenom": "Edward"
+          },
+          {
+            "nom": "Pitt",
+            "prenom": "Brad"
+          },
+          {
+            "nom": "Bonham Carter",
+            "prenom": "Helena"
+          }
+        ],
+        "producteurs": [
+          {
+            "nom": "Fincher",
+            "prenom": "David"
+          }
+        ],
+        "evaluations": [],
+        "themes": [
+          {
+            "nom": "Drame"
+          },
+          {
+            "nom": "Thriller"
+          }
+        ],
+        "roles": [
+          {
+            "role": "Le narrateur"
+          },
+          {
+            "role": "Tyler Durden"
+          }
+        ]
+      },
+      {
+        "titre": "The Matrix",
+        "anneeSortie": 1999,
+        "prix": 10.99,
+        "resume": "Un pirate informatique découvre que la réalité telle que nous la connaissons est une simulation créée par des machines.",
+        "nombreEvaluations": 0,
+        "nombreVentes": 0,
+        "reductionAbonne": 0.15,
+        "acteurs": [
+          {
+            "nom": "Reeves",
+            "prenom": "Keanu"
+          },
+          {
+            "nom": "Moss",
+            "prenom": "Carrie-Anne"
+          },
+          {
+            "nom": "Fishburne",
+            "prenom": "Laurence"
+          }
+        ],
+        "producteurs": [
+          {
+            "nom": "Wachowski",
+            "prenom": "Lana \u0026 Lilly"
+          }
+        ],
+        "evaluations": [],
+        "themes": [
+          {
+            "nom": "Action"
+          },
+          {
+            "nom": "Science-Fiction"
+          }
+        ],
+        "roles": [
+          {
+            "role": "Neo"
+          },
+          {
+            "role": "Trinity"
+          }
+        ]
+      },
+      {
+        "titre": "The Godfather",
+        "anneeSortie": 1972,
+        "prix": 9.99,
+        "resume": "La saga d\u0027une famille de gangsters italo-américains dirigée par le patriarche Don Vito Corleone.",
+        "nombreEvaluations": 0,
+        "nombreVentes": 0,
+        "reductionAbonne": 0.12,
+        "acteurs": [
+          {
+            "nom": "Brando",
+            "prenom": "Marlon"
+          },
+          {
+            "nom": "Pacino",
+            "prenom": "Al"
+          },
+          {
+            "nom": "Duvall",
+            "prenom": "Robert"
+          }
+        ],
+        "producteurs": [
+          {
+            "nom": "Coppola",
+            "prenom": "Francis Ford"
+          }
+        ],
+        "evaluations": [],
+        "themes": [
+          {
+            "nom": "Crime"
+          },
+          {
+            "nom": "Drame"
+          }
+        ],
+        "roles": [
+          {
+            "role": "Don Vito Corleone"
+          },
+          {
+            "role": "Michael Corleone"
+          }
+        ]
+      },
+      {
+        "titre": "Inception",
+        "anneeSortie": 2010,
+        "prix": 10.99,
+        "resume": "Un voleur d\u0027élite vole des secrets en les infiltrant dans les rêves de ses cibles.",
+        "nombreEvaluations": 0,
+        "nombreVentes": 0,
+        "reductionAbonne": 0.17,
+        "acteurs": [
+          {
+            "nom": "DiCaprio",
+            "prenom": "Leonardo"
+          },
+          {
+            "nom": "Gordon-Levitt",
+            "prenom": "Joseph"
+          },
+          {
+            "nom": "Page",
+            "prenom": "Ellen"
+          }
+        ],
+        "producteurs": [
+          {
+            "nom": "Nolan",
+            "prenom": "Christopher"
+          }
+        ],
+        "evaluations": [],
+        "themes": [
+          {
+            "nom": "Action"
+          },
+          {
+            "nom": "Science-Fiction"
+          },
+          {
+            "nom": "Thriller"
+          }
+        ],
+        "roles": [
+          {
+            "role": "Dom Cobb"
+          },
+          {
+            "role": "Arthur"
+          }
+        ]
+      },
+      {
+        "titre": "Pulp Fiction",
+        "anneeSortie": 1994,
+        "prix": 8.99,
+        "resume": "Les histoires entrelacées de gangsters, de boxeurs, et de personnages étranges à Los Angeles.",
+        "nombreEvaluations": 0,
+        "nombreVentes": 0,
+        "reductionAbonne": 0.1,
+        "acteurs": [
+          {
+            "nom": "Travolta",
+            "prenom": "John"
+          },
+          {
+            "nom": "Thurman",
+            "prenom": "Uma"
+          },
+          {
+            "nom": "Jackson",
+            "prenom": "Samuel L."
+          }
+        ],
+        "producteurs": [
+          {
+            "nom": "Tarantino",
+            "prenom": "Quentin"
+          }
+        ],
+        "evaluations": [],
+        "themes": [
+          {
+            "nom": "Crime"
+          },
+          {
+            "nom": "Drame"
+          },
+          {
+            "nom": "Thriller"
+          }
+        ],
+        "roles": [
+          {
+            "role": "Vincent Vega"
+          },
+          {
+            "role": "Jules Winnfield"
+          }
+        ]
+      },
+      {
+        "titre": "Interstellar",
+        "anneeSortie": 2014,
+        "prix": 11.99,
+        "resume": "Un groupe d\u0027explorateurs utilise un trou de ver pour tenter de trouver une nouvelle planète habitable pour l\u0027humanité.",
+        "nombreEvaluations": 0,
+        "nombreVentes": 0,
+        "reductionAbonne": 0.18,
+        "acteurs": [
+          {
+            "nom": "McConaughey",
+            "prenom": "Matthew"
+          },
+          {
+            "nom": "Hathaway",
+            "prenom": "Anne"
+          },
+          {
+            "nom": "Chastain",
+            "prenom": "Jessica"
+          }
+        ],
+        "producteurs": [
+          {
+            "nom": "Nolan",
+            "prenom": "Christopher"
+          },
+          {
+            "nom": "Lynda",
+            "prenom": "Emma"
+          }
+        ],
+        "evaluations": [],
+        "themes": [
+          {
+            "nom": "Aventure"
+          },
+          {
+            "nom": "Drame"
+          },
+          {
+            "nom": "Science-Fiction"
+          }
+        ],
+        "roles": [
+          {
+            "role": "Cooper"
+          },
+          {
+            "role": "Brand"
+          }
+        ]
+      },
+      {
+        "titre": "The Shawshank Redemption",
+        "anneeSortie": 1994,
+        "prix": 8.99,
+        "resume": "Deux hommes condamnés à la prison perpétuelle se lient d\u0027amitié et trouvent l\u0027espoir au milieu de l\u0027injustice.",
+        "nombreEvaluations": 0,
+        "nombreVentes": 0,
+        "reductionAbonne": 0.1,
+        "acteurs": [
+          {
+            "nom": "Robbins",
+            "prenom": "Tim"
+          },
+          {
+            "nom": "Freeman",
+            "prenom": "Morgan"
+          },
+          {
+            "nom": "Gunton",
+            "prenom": "Bob"
+          }
+        ],
+        "producteurs": [
+          {
+            "nom": "Darabont",
+            "prenom": "Frank"
+          },
+          {
+            "nom": "Marvin",
+            "prenom": "Nick"
+          }
+        ],
+        "evaluations": [],
+        "themes": [
+          {
+            "nom": "Drame"
+          },
+          {
+            "nom": "Crime"
+          }
+        ],
+        "roles": [
+          {
+            "role": "Andy Dufresne"
+          },
+          {
+            "role": "Ellis Boyd \u0027Red\u0027 Redding"
+          }
+        ]
+      },
+      {
+        "titre": "Fight Club",
+        "anneeSortie": 1999,
+        "prix": 9.99,
+        "resume": "Un employé de bureau insatisfait crée un club de combat clandestin comme moyen de trouver un sens à sa vie.",
+        "nombreEvaluations": 0,
+        "nombreVentes": 0,
+        "reductionAbonne": 0.12,
+        "acteurs": [
+          {
+            "nom": "Norton",
+            "prenom": "Edward"
+          },
+          {
+            "nom": "Pitt",
+            "prenom": "Brad"
+          },
+          {
+            "nom": "Bonham Carter",
+            "prenom": "Helena"
+          }
+        ],
+        "producteurs": [
+          {
+            "nom": "Fincher",
+            "prenom": "David"
+          }
+        ],
+        "evaluations": [],
+        "themes": [
+          {
+            "nom": "Drame"
+          },
+          {
+            "nom": "Thriller"
+          }
+        ],
+        "roles": [
+          {
+            "role": "Le narrateur"
+          },
+          {
+            "role": "Tyler Durden"
+          }
+        ]
+      },
+      {
+        "titre": "The Matrix",
+        "anneeSortie": 1999,
+        "prix": 10.99,
+        "resume": "Un pirate informatique découvre que la réalité telle que nous la connaissons est une simulation créée par des machines.",
+        "nombreEvaluations": 0,
+        "nombreVentes": 0,
+        "reductionAbonne": 0.15,
+        "acteurs": [
+          {
+            "nom": "Reeves",
+            "prenom": "Keanu"
+          },
+          {
+            "nom": "Moss",
+            "prenom": "Carrie-Anne"
+          },
+          {
+            "nom": "Fishburne",
+            "prenom": "Laurence"
+          }
+        ],
+        "producteurs": [
+          {
+            "nom": "Wachowski",
+            "prenom": "Lana \u0026 Lilly"
+          }
+        ],
+        "evaluations": [],
+        "themes": [
+          {
+            "nom": "Action"
+          },
+          {
+            "nom": "Science-Fiction"
+          }
+        ],
+        "roles": [
+          {
+            "role": "Neo"
+          },
+          {
+            "role": "Trinity"
+          }
+        ]
+      },
+      {
+        "titre": "Schindler\u0027s List",
+        "anneeSortie": 1993,
+        "prix": 8.99,
+        "resume": "Un homme d\u0027affaires allemand sauve la vie de milliers de Juifs pendant l\u0027Holocauste.",
+        "nombreEvaluations": 0,
+        "nombreVentes": 0,
+        "reductionAbonne": 0.1,
+        "acteurs": [
+          {
+            "nom": "Neeson",
+            "prenom": "Liam"
+          },
+          {
+            "nom": "Fiennes",
+            "prenom": "Ralph"
+          },
+          {
+            "nom": "Kingsley",
+            "prenom": "Ben"
+          }
+        ],
+        "producteurs": [
+          {
+            "nom": "Spielberg",
+            "prenom": "Steven"
+          }
+        ],
+        "evaluations": [],
+        "themes": [
+          {
+            "nom": "Biographie"
+          },
+          {
+            "nom": "Drame"
+          },
+          {
+            "nom": "Histoire"
+          }
+        ],
+        "roles": [
+          {
+            "role": "Oskar Schindler"
+          },
+          {
+            "role": "Amon Goeth"
+          }
+        ]
+      },
+      {
+        "titre": "The Lord of the Rings: The Fellowship of the Ring",
+        "anneeSortie": 2001,
+        "prix": 10.99,
+        "resume": "Un jeune hobbit est chargé de détruire un anneau puissant avant qu\u0027il ne tombe entre les mains du Seigneur des Ténèbres.",
+        "nombreEvaluations": 0,
+        "nombreVentes": 0,
+        "reductionAbonne": 0.15,
+        "acteurs": [
+          {
+            "nom": "Wood",
+            "prenom": "Elijah"
+          },
+          {
+            "nom": "McKellen",
+            "prenom": "Ian"
+          },
+          {
+            "nom": "Bloom",
+            "prenom": "Orlando"
+          }
+        ],
+        "producteurs": [
+          {
+            "nom": "Jackson",
+            "prenom": "Peter"
+          }
+        ],
+        "evaluations": [],
+        "themes": [
+          {
+            "nom": "Action"
+          },
+          {
+            "nom": "Aventure"
+          },
+          {
+            "nom": "Fantasy"
+          }
+        ],
+        "roles": [
+          {
+            "role": "Frodo Baggins"
+          },
+          {
+            "role": "Gandalf"
+          }
+        ]
+      },
+      {
+        "titre": "The Green Mile",
+        "anneeSortie": 1999,
+        "prix": 8.99,
+        "resume": "Les gardiens d\u0027une prison découvrent qu\u0027un de leurs détenus possède un don surnaturel.",
+        "nombreEvaluations": 0,
+        "nombreVentes": 0,
+        "reductionAbonne": 0.1,
+        "acteurs": [
+          {
+            "nom": "Hanks",
+            "prenom": "Tom"
+          },
+          {
+            "nom": "Duncan",
+            "prenom": "Michael Clarke"
+          },
+          {
+            "nom": "Morse",
+            "prenom": "David"
+          }
+        ],
+        "producteurs": [
+          {
+            "nom": "Darabont",
+            "prenom": "Frank"
+          }
+        ],
+        "evaluations": [],
+        "themes": [
+          {
+            "nom": "Crime"
+          },
+          {
+            "nom": "Drame"
+          },
+          {
+            "nom": "Fantasy"
+          }
+        ],
+        "roles": [
+          {
+            "role": "Paul Edgecomb"
+          },
+          {
+            "role": "John Coffey"
+          }
+        ]
+      },
+      {
+        "titre": "Goodfellas",
+        "anneeSortie": 1990,
+        "prix": 9.99,
+        "resume": "La montée et la chute d\u0027un gangster italo-américain dans le milieu criminel.",
+        "nombreEvaluations": 0,
+        "nombreVentes": 0,
+        "reductionAbonne": 0.12,
+        "acteurs": [
+          {
+            "nom": "Liotta",
+            "prenom": "Ray"
+          },
+          {
+            "nom": "De Niro",
+            "prenom": "Robert"
+          },
+          {
+            "nom": "Pesci",
+            "prenom": "Joe"
+          }
+        ],
+        "producteurs": [
+          {
+            "nom": "Scorsese",
+            "prenom": "Martin"
+          }
+        ],
+        "evaluations": [],
+        "themes": [
+          {
+            "nom": "Biographie"
+          },
+          {
+            "nom": "Crime"
+          },
+          {
+            "nom": "Drame"
+          }
+        ],
+        "roles": [
+          {
+            "role": "Henry Hill"
+          },
+          {
+            "role": "Jimmy Conway"
+          }
+        ]
+      },
+      {
+        "titre": "The Usual Suspects",
+        "anneeSortie": 1995,
+        "prix": 9.99,
+        "resume": "Un escroc légendaire raconte l\u0027histoire de sa rencontre avec un mystérieux criminel.",
+        "nombreEvaluations": 0,
+        "nombreVentes": 0,
+        "reductionAbonne": 0.12,
+        "acteurs": [
+          {
+            "nom": "Spacey",
+            "prenom": "Kevin"
+          },
+          {
+            "nom": "Baldwin",
+            "prenom": "Stephen"
+          },
+          {
+            "nom": "Del Toro",
+            "prenom": "Benicio"
+          }
+        ],
+        "producteurs": [
+          {
+            "nom": "Singer",
+            "prenom": "Bryan"
+          }
+        ],
+        "evaluations": [],
+        "themes": [
+          {
+            "nom": "Crime"
+          },
+          {
+            "nom": "Drame"
+          },
+          {
+            "nom": "Mystère"
+          }
+        ],
+        "roles": [
+          {
+            "role": "Verbal Kint"
+          },
+          {
+            "role": "Keyser Söze"
+          }
+        ]
+      },
+      {
+        "titre": "Seven",
+        "anneeSortie": 1995,
+        "prix": 9.99,
+        "resume": "Deux détectives traquent un tueur en série qui utilise les sept péchés capitaux comme motifs dans ses meurtres.",
+        "nombreEvaluations": 0,
+        "nombreVentes": 0,
+        "reductionAbonne": 0.12,
+        "acteurs": [
+          {
+            "nom": "Freeman",
+            "prenom": "Morgan"
+          },
+          {
+            "nom": "Pitt",
+            "prenom": "Brad"
+          },
+          {
+            "nom": "Spacey",
+            "prenom": "Kevin"
+          }
+        ],
+        "producteurs": [
+          {
+            "nom": "Fincher",
+            "prenom": "David"
+          }
+        ],
+        "evaluations": [],
+        "themes": [
+          {
+            "nom": "Crime"
+          },
+          {
+            "nom": "Drame"
+          },
+          {
+            "nom": "Thriller"
+          }
+        ],
+        "roles": [
+          {
+            "role": "William Somerset"
+          },
+          {
+            "role": "David Mills"
+          }
+        ]
+      },
+      {
+        "titre": "Back to the Future",
+        "anneeSortie": 1985,
+        "prix": 8.99,
+        "resume": "Un adolescent voyage dans le temps avec l\u0027aide d\u0027un inventeur excentrique et doit s\u0027assurer que ses parents tombent amoureux.",
+        "nombreEvaluations": 0,
+        "nombreVentes": 0,
+        "reductionAbonne": 0.1,
+        "acteurs": [
+          {
+            "nom": "Fox",
+            "prenom": "Michael J."
+          },
+          {
+            "nom": "Lloyd",
+            "prenom": "Christopher"
+          },
+          {
+            "nom": "Thompson",
+            "prenom": "Lea"
+          }
+        ],
+        "producteurs": [
+          {
+            "nom": "Zemeckis",
+            "prenom": "Robert"
+          }
+        ],
+        "evaluations": [],
+        "themes": [
+          {
+            "nom": "Aventure"
+          },
+          {
+            "nom": "Comédie"
+          },
+          {
+            "nom": "Science-Fiction"
+          }
+        ],
+        "roles": [
+          {
+            "role": "Marty McFly"
+          },
+          {
+            "role": "Doc Brown"
+          }
+        ]
+      },
+      {
+        "titre": "The Shining",
+        "anneeSortie": 1980,
+        "prix": 9.99,
+        "resume": "Une famille isolée devient les gardiens d\u0027un hôtel déserté pendant l\u0027hiver, mais l\u0027isolement les conduit à la folie.",
+        "nombreEvaluations": 0,
+        "nombreVentes": 0,
+        "reductionAbonne": 0.12,
+        "acteurs": [
+          {
+            "nom": "Nicholson",
+            "prenom": "Jack"
+          },
+          {
+            "nom": "Duvall",
+            "prenom": "Shelley"
+          },
+          {
+            "nom": "Lloyd",
+            "prenom": "Danny"
+          }
+        ],
+        "producteurs": [
+          {
+            "nom": "Kubrick",
+            "prenom": "Stanley"
+          }
+        ],
+        "evaluations": [],
+        "themes": [
+          {
+            "nom": "Drame"
+          },
+          {
+            "nom": "Horreur"
+          },
+          {
+            "nom": "Thriller"
+          }
+        ],
+        "roles": [
+          {
+            "role": "Jack Torrance"
+          },
+          {
+            "role": "Wendy Torrance"
+          }
+        ]
+      },
+      {
+        "titre": "Casablanca",
+        "anneeSortie": 1942,
+        "prix": 7.99,
+        "resume": "Dans le Maroc contrôlé par les nazis, un propriétaire de club et un réfugié amoureux se retrouvent pris dans les rouages de la guerre.",
+        "nombreEvaluations": 0,
+        "nombreVentes": 0,
+        "reductionAbonne": 0.1,
+        "acteurs": [
+          {
+            "nom": "Bogart",
+            "prenom": "Humphrey"
+          },
+          {
+            "nom": "Bergman",
+            "prenom": "Ingrid"
+          },
+          {
+            "nom": "Henreid",
+            "prenom": "Paul"
+          }
+        ],
+        "producteurs": [
+          {
+            "nom": "Wallis",
+            "prenom": "Hal B."
+          },
+          {
+            "nom": "Epstein",
+            "prenom": "Julius J."
+          }
+        ],
+        "evaluations": [],
+        "themes": [
+          {
+            "nom": "Drame"
+          },
+          {
+            "nom": "Romance"
+          },
+          {
+            "nom": "Guerre"
+          }
+        ],
+        "roles": [
+          {
+            "role": "Rick Blaine"
+          },
+          {
+            "role": "Ilsa Lund"
+          }
+        ]
+      },
+      {
+        "titre": "Terminator",
+        "anneeSortie": 2020,
+        "prix": 30.0,
+        "resume": "yggu",
+        "nombreEvaluations": 0,
+        "nombreVentes": 0,
+        "reductionAbonne": 0.5,
+        "acteurs": [
+          {
+            "nom": "Jean",
+            "prenom": "Jacques"
+          }
+        ],
+        "producteurs": [
+          {
+            "nom": "Jean",
+            "prenom": "Jacques"
+          }
+        ],
+        "evaluations": [],
+        "themes": [
+          {
+            "nom": "Action fantasy"
+          }
+        ],
+        "roles": [
+          {
+            "role": "Secondaire"
+          }
+        ]
+      },
+      {
+        "titre": "titanic2",
+        "anneeSortie": 2000,
+        "prix": 20.0,
+        "resume": "kdkl",
+        "nombreEvaluations": 0,
+        "nombreVentes": 0,
+        "reductionAbonne": 0.5,
+        "acteurs": [
+          {
+            "nom": "jean",
+            "prenom": ""
+          }
+        ],
+        "producteurs": [
+          {
+            "nom": "jean",
+            "prenom": "del"
+          }
+        ],
+        "evaluations": [],
+        "themes": [
+          {
+            "nom": "Action"
+          }
+        ],
+        "roles": [
+          {
+            "role": "secondaire"
+          }
+        ]
+      },
+      {
+        "titre": "titanic3",
+        "anneeSortie": 2000,
+        "prix": 20.0,
+        "resume": "un bateau",
+        "nombreEvaluations": 0,
+        "nombreVentes": 0,
+        "reductionAbonne": 0.5,
+        "acteurs": [
+          {
+            "nom": "jean",
+            "prenom": "jacque,"
+          }
+        ],
+        "producteurs": [
+          {
+            "nom": "jean",
+            "prenom": "jacque"
+          }
+        ],
+        "evaluations": [],
+        "themes": [
+          {
+            "nom": "Action"
+          }
+        ],
+        "roles": [
+          {
+            "role": "secondaire"
+          }
+        ]
+      }
+    ]
+  }
+]

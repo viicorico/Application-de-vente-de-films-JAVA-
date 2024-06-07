@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Nouvelle Catégorie",
+    "lstPdt": [
+      {
+        "utilisateurID": 0,
+        "pseudonyme": "moderator01",
+        "nom": "a",
+        "prenom": "a",
+        "email": "a",
+        "motDePasse": "a",
+        "phraseSecrete": "a",
+        "adresse": "a",
+        "pays": "FRANCE"
+      },
+      {
+        "utilisateurID": 0,
+        "pseudonyme": "moderator02",
+        "nom": "b",
+        "prenom": "b",
+        "email": "b",
+        "motDePasse": "b",
+        "phraseSecrete": "b",
+        "adresse": "b",
+        "pays": "FRANCE"
+      },
+      {
+        "utilisateurID": 0,
+        "pseudonyme": "moderator03",
+        "nom": "c",
+        "prenom": "c",
+        "email": "c",
+        "motDePasse": "c",
+        "phraseSecrete": "c",
+        "adresse": "c",
+        "pays": "FRANCE"
+      },
+      {
+        "utilisateurID": 0,
+        "pseudonyme": "moderator04",
+        "nom": "d",
+        "prenom": "d",
+        "email": "d",
+        "motDePasse": "d",
+        "phraseSecrete": "d",
+        "adresse": "d",
+        "pays": "FRANCE"
+      },
+      {
+        "utilisateurID": 0,
+        "pseudonyme": "moderator05",
+        "nom": "e",
+        "prenom": "e",
+        "email": "e",
+        "motDePasse": "e",
+        "phraseSecrete": "e",
+        "adresse": "e",
+        "pays": "FRANCE"
+      },
+      {
+        "utilisateurID": 0,
+        "pseudonyme": "a",
+        "nom": "a",
+        "prenom": "a",
+        "email": "a",
+        "motDePasse": "a",
+        "phraseSecrete": "a",
+        "adresse": "a",
+        "pays": "FRANCE"
+      },
+      {
+        "utilisateurID": 0,
+        "pseudonyme": "e",
+        "nom": "e",
+        "prenom": "e",
+        "email": "e",
+        "motDePasse": "e",
+        "phraseSecrete": "e",
+        "adresse": "e",
+        "pays": "FRANCE"
+      },
+      {
+        "utilisateurID": 0,
+        "pseudonyme": "w",
+        "nom": "w",
+        "prenom": "w",
+        "email": "w",
+        "motDePasse": "w",
+        "phraseSecrete": "w",
+        "adresse": "w",
+        "pays": "FRANCE"
+      },
+      {
+        "utilisateurID": 0,
+        "pseudonyme": "a",
+        "nom": "a",
+        "prenom": "a",
+        "email": "a",
+        "motDePasse": "a",
+        "phraseSecrete": "a",
+        "adresse": "a",
+        "pays": "FRANCE"
+      },
+      {
+        "utilisateurID": 0,
+        "pseudonyme": "a",
+        "nom": "a",
+        "prenom": "a",
+        "email": "a",
+        "motDePasse": "a",
+        "phraseSecrete": "a",
+        "adresse": "a",
+        "pays": "FRANCE"
+      },
+      {
+        "utilisateurID": 0,
+        "pseudonyme": "a",
+        "nom": "a",
+        "prenom": "a",
+        "email": "a",
+        "motDePasse": "a",
+        "phraseSecrete": "a",
+        "adresse": "a",
+        "pays": "FRANCE"
+      },
+      {
+        "utilisateurID": 0,
+        "pseudonyme": "a",
+        "nom": "a",
+        "prenom": "a",
+        "email": "a",
+        "motDePasse": "a",
+        "phraseSecrete": "a",
+        "adresse": "a",
+        "pays": "FRANCE"
+      },
+      {
+        "utilisateurID": 0,
+        "pseudonyme": "b",
+        "nom": "b",
+        "prenom": "b",
+        "email": "b",
+        "motDePasse": "b",
+        "phraseSecrete": "b",
+        "adresse": "b",
+        "pays": "FRANCE"
+      },
+      {
+        "utilisateurID": 0,
+        "pseudonyme": "b",
+        "nom": "b",
+        "prenom": "b",
+        "email": "b",
+        "motDePasse": "b",
+        "phraseSecrete": "b",
+        "adresse": "b",
+        "pays": "FRANCE"
+      },
+      {
+        "utilisateurID": 0,
+        "pseudonyme": "vic",
+        "nom": "vic",
+        "prenom": "vic",
+        "email": "vic",
+        "motDePasse": "vic",
+        "phraseSecrete": "vic",
+        "adresse": "vic",
+        "pays": "FRANCE"
+      },
+      {
+        "utilisateurID": 0,
+        "pseudonyme": "Vic",
+        "nom": "Vic",
+        "prenom": "Vic",
+        "email": "Vic",
+        "motDePasse": "Vic",
+        "phraseSecrete": "Vic",
+        "adresse": "Vic",
+        "pays": "FRANCE"
+      },
+      {
+        "utilisateurID": 0,
+        "pseudonyme": "mama",
+        "nom": "mama",
+        "prenom": "mama",
+        "email": "mama",
+        "motDePasse": "mama",
+        "phraseSecrete": "mama",
+        "adresse": "mama",
+        "pays": "FRANCE"
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Film1",
+    "lstPdt": [
+      {
+        "titre": "Titre1",
+        "anneeSortie": 2000,
+        "prix": 9.99,
+        "resume": "Résumé du film 1",
+        "nombreEvaluations": 100,
+        "nombreVentes": 500,
+        "reductionAbonne": 0.0
+      }
+    ]
+  },
+  {
+    "name": "Evaluation2",
+    "lstPdt": [
+      {
+        "titre": "Titre2",
+        "anneeSortie": 2000,
+        "prix": 9.99,
+        "resume": "Résumé du film 2",
+        "nombreEvaluations": 100,
+        "nombreVentes": 500,
+        "reductionAbonne": 0.0
+      }
+    ]
+  }
+]

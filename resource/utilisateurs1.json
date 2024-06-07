@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Nouvelle Catégorie",
+    "lstPdt": [
+      {
+        "utilisateurID": 0,
+        "pseudonyme": "a",
+        "nom": "a",
+        "prenom": "a",
+        "email": "a",
+        "motDePasse": "a",
+        "phraseSecrete": "a",
+        "adresse": "a",
+        "pays": "FRANCE"
+      }
+    ]
+  }
+]

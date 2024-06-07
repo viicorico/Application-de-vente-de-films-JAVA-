@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.cytech.address.view.CommentaireController">
+   <children>
+      <AnchorPane prefHeight="89.0" prefWidth="600.0" style="-fx-background-color: #00A0FF;">
+         <children>
+            <Label layoutX="32.0" layoutY="34.0" prefHeight="30.0" prefWidth="286.0" text="Ajouter un commentaire" textFill="WHITE">
+               <font>
+                  <Font name="SansSerif Italic" size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+      <Button fx:id="soumettreEvaluationButton" layoutX="389.0" layoutY="360.0" mnemonicParsing="false" onAction="#soumettreEvaluation" prefHeight="30.0" prefWidth="200.0" style="-fx-background-color: #00A0FF;" text="Ajouter un commentaire" textFill="WHITE">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <TextField fx:id="note" layoutX="58.0" layoutY="140.0" promptText="note" />
+      <TextArea fx:id="commentaire" layoutX="289.0" layoutY="140.0" prefHeight="200.0" prefWidth="200.0" promptText="Commentaire" />
+      <TextField fx:id="titre" layoutX="58.0" layoutY="187.0" promptText="titre" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Role1",
+    "lstPdt": [
+      {
+        "role": "Secondaire"
+      }
+    ]
+  },
+  {
+    "name": "Role2",
+    "lstPdt": [
+      {
+        "role": "primaire"
+      }
+    ]
+  }
+]

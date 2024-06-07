@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Acteur1",
+        "lstPdt": [
+            {
+                "nom": "Leonardo",
+                "prenom": "Dicaprio"
+            }
+        ]
+    },
+    {
+        "name": "Acteur2",
+        "lstPdt": [
+            {
+                "nom": "Leonardo",
+                "prenom": "DIaprio"
+            }
+        ]
+    }
+]
+
+
