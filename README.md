@@ -6,10 +6,11 @@ Bienvenue sur le projet **Application de vente de films**, une plateforme de ven
 ## Fonctionnalités ⚙
 ### côté client
 - **Recherche de films** : Permet aux utilisateurs de trier des films par titre, genre, etc.
-- **Évaluations** : Les utilisateurs peuvent évaluer et commenter les films.
+- **Évaluations** : Les utilisateurs peuvent évaluer et commenter les films (double-clic sur le film donné)
 - **Gestion du panier** : Ajouter, supprimer et gérer les films dans le panier.
 - **Compte utilisateur** : Création et gestion de comptes utilisateur.
 - **Liste des achats** : Permet aux clients de consulter les films achetés
+- **Abonnement** : Permet au clients de s'abonner afin d'obtenir des réductions selon le film
  
 ### côté administrateur
 - **Ajouter, modfier et supprimer les films** : permet la gestion des films côté admin
@@ -42,12 +43,8 @@ Bienvenue sur le projet **Application de vente de films**, une plateforme de ven
 
 2. Exécutez la classe principale `MainApp` :
     ```java
-    package com.cytech.main;
+    package com.cytech.address.MainApp.java;
 
-    public class MainApp {
-        public static void main(String[] args) {
-            launch(args);
-        }
-    }
+    
     ```
-
+3. Il sera possible de créer un nouveau compte client ou bien de se connecter en tant qu'administrateur (ceux-ci sont déjà créés avec un identifiant et mot de passe) 
