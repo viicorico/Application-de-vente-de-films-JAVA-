@@ -35,7 +35,7 @@ Bienvenue sur le projet **Application de vente de films**, une plateforme de ven
 
 ## Exécution ⚡
 
-1. Configurez votre IDE pour inclure les modules JavaFX lors de l'exécution. Par exemple, pour IntelliJ IDEA, ajoutez les VM options suivantes :
+1. Configurez votre IDE pour inclure les modules JavaFX lors de l'exécution. Par exemple, ajoutez les VM options suivantes :
     ```sh
     --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.fxml
     ```
